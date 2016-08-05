@@ -1,0 +1,18 @@
+c:\users\geo computers\documents\visual studio 2013\Projects\IntWords\IntWords\bin\Debug\IntWords.exe.config
+c:\users\geo computers\documents\visual studio 2013\Projects\IntWords\IntWords\bin\Debug\IntWords.exe
+c:\users\geo computers\documents\visual studio 2013\Projects\IntWords\IntWords\bin\Debug\IntWords.pdb
+c:\users\geo computers\documents\visual studio 2013\Projects\IntWords\IntWords\obj\Debug\IntWords.csprojResolveAssemblyReference.cache
+c:\users\geo computers\documents\visual studio 2013\Projects\IntWords\IntWords\obj\Debug\IntWords.exe
+c:\users\geo computers\documents\visual studio 2013\Projects\IntWords\IntWords\obj\Debug\IntWords.pdb
+C:\Users\ssheklashvili\Desktop\C#\IntWords\IntWords\bin\Debug\IntWords.exe.config
+C:\Users\ssheklashvili\Desktop\C#\IntWords\IntWords\obj\Debug\IntWords.exe
+C:\Users\ssheklashvili\Desktop\C#\IntWords\IntWords\obj\Debug\IntWords.pdb
+C:\Users\ssheklashvili\Desktop\C#\IntWords\IntWords\bin\Debug\IntWords.exe
+C:\Users\ssheklashvili\Desktop\C#\IntWords\IntWords\bin\Debug\IntWords.pdb
+C:\Users\ssheklashvili\Desktop\C#\IntWords\IntWords\obj\Debug\IntWords.csprojResolveAssemblyReference.cache
+C:\Users\ssheklashvili\Desktop\davaleba1\IntWords\IntWords\bin\Debug\IntWords.exe.config
+C:\Users\ssheklashvili\Desktop\davaleba1\IntWords\IntWords\obj\Debug\IntWords.exe
+C:\Users\ssheklashvili\Desktop\davaleba1\IntWords\IntWords\obj\Debug\IntWords.pdb
+C:\Users\ssheklashvili\Desktop\davaleba1\IntWords\IntWords\bin\Debug\IntWords.exe
+C:\Users\ssheklashvili\Desktop\davaleba1\IntWords\IntWords\bin\Debug\IntWords.pdb
+C:\Users\ssheklashvili\Desktop\davaleba1\IntWords\IntWords\obj\Debug\IntWords.csprojResolveAssemblyReference.cache
